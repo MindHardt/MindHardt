@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello, my name is Igor</a> 
+<h3 align="center">I am a 19 y.o. Program Engineering student at ChelGU and a C# enthusiast.</h3>
 
-<!--
-**MindHardt/MindHardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My most-supported project right now is [my discord bot](https://github.com/MindHardt/Un1ver5e.Bot.VI), which I am making alone, it is the top of my current C# skills
+### My current skills:
++ C#
++ EntityFramework (code-first)
++ Hosting and DI pipelines
++ SQL
++ Serilog
 
-Here are some ideas to get you started:
+### I am also known by names:
++ Un1ver5e
++ Hin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can reach me:
++ [Discord](https://discordapp.com/users/298097988495081472)
++ [Telegram](https://t.me/un1ver5e)
++ [VK](https://vk.com/un1ver5e)
++ `igorbabin2002@gmail.com`
+### Feel free to write!
