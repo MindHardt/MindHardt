@@ -5,7 +5,7 @@
 ### My current skills:
 + C#
 + [EntityFramework](https://github.com/dotnet/efcore) (code-first)
-+ [Hosting](https://www.nuget.org/packages/Microsoft.Extensions.Hosting/) and [DI](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/) pipelines
++ [Hosting](https://www.nuget.org/packages/Microsoft.Extensions.Hosting/) and [DI](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/) patterns
 + SQL
 + [Serilog](https://github.com/serilog/serilog)
 
