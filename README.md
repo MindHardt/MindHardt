@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Igor</a> 
-<h3 align="center">I am a 19 y.o. Program Engineering student at ChelGU and a C# enthusiast.</h3>
+<h3 align="center">I am a 20 y.o. Program Engineering student at ChelGU and a C# enthusiast.</h3>
 
 ## My most-supported project right now is [my discord bot](https://github.com/MindHardt/Un1ver5e.Bot.VI), which I am making alone, it is the top of my current [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" style="width:20px;height:20px;">](https://github.com/topics/csharp) skills
 ### My current skills:
