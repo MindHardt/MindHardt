@@ -1,13 +1,15 @@
 <h1 align="center">Hello, my name is Igor</a> 
 <h3 align="center">I am a 20 y.o. Program Engineering student at ChelGU and a C# enthusiast.</h3>
 
-## My most-supported project right now is [my discord bot](https://github.com/MindHardt/Un1ver5e.Bot.VI), which I am making alone, it is the top of my current [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" style="width:20px;height:20px;">](https://github.com/topics/csharp) skills
+## My most-supported projects right are [my discord bot](https://github.com/MindHardt/Un1ver5e.Bot.VI), and my [ASP.NET-hosted Blazor WebAssembly site](https://github.com/MindHardt/BlazorSite2)  
 ### My current skills:
 + C#
 + [EntityFramework](https://github.com/dotnet/efcore) (code-first)
 + [Hosting](https://www.nuget.org/packages/Microsoft.Extensions.Hosting/) and [DI](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/) patterns
 + SQL
 + [Serilog](https://github.com/serilog/serilog)
++ ASP.NET Core
++ Blazor
 
 ### I am also known by names:
 + Un1ver5e
@@ -20,5 +22,3 @@
 [<img src="https://cdn.svgporn.com/logos/google-gmail.svg?response-content-disposition=attachment%3Bfilename%3Dgoogle-gmail.svg" alt="Logo" style="width:32px;height:32px;">](mailto:igorbabin2002@gmail.com)  
 `igorbabin2002@gmail.com`
 ### Feel free to write!
-
-[![MindHardt GitHub stats](https://github-readme-stats.vercel.app/api?username=MindHardt)](https://github.com/MindHardt/github-readme-stats)
