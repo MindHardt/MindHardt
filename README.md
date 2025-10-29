@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Igor</h1> 
-I am a 21 y.o. Web developer and Devops. My main programming interests are C#/.NET, ASP.Net Core, Blazor.
+I am a 23 y.o. Web developer and Devops. My main programming interests are C#/.NET, ASP.NET Core, Typescript, React.
 
-If you want a summary of my skills then feel free to visit [my russian website](https://un1ver5e.ru) or take a look at my pinned repositories here.
+If you want a summary of my skills then feel free to visit [my russian website](https://un1ver5e.ru), my main pet project [seadox](https://seadox.ru) or take a look at my pinned repositories here.
 
 ### I am also known by names:
 + Un1ver5e
